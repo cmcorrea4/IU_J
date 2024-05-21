@@ -1,1 +1,6 @@
 streamlit
+keras
+numpy
+opencv-python-headless
+Pillow
+tensorflow==2.12
