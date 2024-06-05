@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 
 # Start by making sure the `assemblyai` package is installed.
 # If not, you can install it by running the following command:
