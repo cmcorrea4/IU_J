@@ -16,9 +16,6 @@ if 'txt_tr' not in st.session_state:
 
 
 st.title("Transcriptor de Audio")
-image = Image.open('OIG3.jpg')
-st.image(image,width=350)
-
 
 ke = st.text_input('Ingresa tu Clave')
 os.environ['OPENAI_API_KEY'] = ke
